@@ -116,7 +116,7 @@ public class Engine {
 				
 				grid[this.nBloqueMC][2]=this.tag;
 				grid[this.nBloqueMC][4]=this.bloqueMP;
-				//tiempo
+				//tiempo acceso
 				
 				if(t==0) {
 					this.tAcceso=tMc+2*tBl;
